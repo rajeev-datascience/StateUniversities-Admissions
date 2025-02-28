@@ -36,7 +36,7 @@ This project analyzes student admissions across **State Universities in the U.S.
 ![University Applications Trend](link_to_screenshot_3)
 
 ## How to Use the Report
-1. **Download the PBIX File**: [Download Here](https://drive.google.com/file/d/1Ap1ZMTZ5WpP92ysHb085xG2V97bsdtr1/view?usp=sharing)
+1. **Download the PBIX File**: [Download Here](https://drive.google.com/file/d/1t3sJigLpHamFivxnD9U57BflsISUmD50/view?usp=sharing)
 2. **Explore Interactive Visuals**: Use Power BI to navigate through filters & insights.
 3. **Understand Key Insights**: Refer to this README for context & findings.
 
