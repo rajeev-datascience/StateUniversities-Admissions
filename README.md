@@ -32,7 +32,7 @@ This project analyzes student admissions across **State Universities in the U.S.
 
 ## Screenshots & Demo
 ![Dashboard Overview](https://github.com/rajeev-datascience/StateUniversities-Admissions/blob/main/StateUniversities%20Admissions-%20Dashboard%20Overview.png))
-![Geo Analysis](link_to_screenshot_2)
+![Geo Analysis](https://github.com/rajeev-datascience/StateUniversities-Admissions/blob/main/StateUniversities%20Admissions-%20Geo%20analysis.png)
 ![University Applications Trend](link_to_screenshot_3)
 
 ## How to Use the Report
