@@ -31,7 +31,7 @@ This project analyzes student admissions across **State Universities in the U.S.
 🔹 **Top vs. Bottom Universities:** The gap between the **top 10 and bottom 10 universities** was significant in applications, indicating disparities in reputation or funding.
 
 ## Screenshots & Demo
-![Dashboard Overview](link_to_screenshot_1)
+![Dashboard Overview](https://github.com/rajeev-datascience/StateUniversities-Admissions/blob/main/StateUniversities%20Admissions-%20Dashboard%20Overview.png))
 ![Geo Analysis](link_to_screenshot_2)
 ![University Applications Trend](link_to_screenshot_3)
 
