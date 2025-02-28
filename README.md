@@ -33,7 +33,7 @@ This project analyzes student admissions across **State Universities in the U.S.
 ## Screenshots & Demo
 ![Dashboard Overview](https://github.com/rajeev-datascience/StateUniversities-Admissions/blob/main/StateUniversities%20Admissions-%20Dashboard%20Overview.png))
 ![Geo Analysis](https://github.com/rajeev-datascience/StateUniversities-Admissions/blob/main/StateUniversities%20Admissions-%20Geo%20analysis.png)
-![University Applications Trend](link_to_screenshot_3)
+![University Applications Trend](https://github.com/rajeev-datascience/StateUniversities-Admissions/blob/main/StateUniversities%20Admissions-%20University%20Applications%20Trend.png)
 
 ## How to Use the Report
 1. **Download the PBIX File**: [Download Here](https://drive.google.com/file/d/1t3sJigLpHamFivxnD9U57BflsISUmD50/view?usp=sharing)
